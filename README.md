@@ -23,11 +23,11 @@ Guy "Jack" Verrier, gjv204@email.vccs.edu
 
 #### Required Reading
 
-* **[A+ guide to hardware][Andrews] by Andrews, J. [Amazon](http://a.co/1O67UbB)
+* **[A+ guide to hardware][Andrews] by Andrews, J.** [Amazon](http://a.co/1O67UbB)
 
 #### Required Tools
 
-* **Anti-static wristband
+* **Anti-static wristband**
 
 #### Optional Media
 
